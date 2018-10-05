@@ -1,0 +1,56 @@
+body {
+background: #102855;
+text-align: center; 
+font-family: 'Inconsolata', monospace;
+padding: 50px 200px 50px 100px
+
+
+}
+
+
+h1{
+color: red;
+
+
+}
+
+h2{
+
+font-weight: lighter;
+
+}
+
+
+img{
+
+}
+
+.bio {
+font-size: 24px;
+
+}
+
+.avatar {
+	width: 300px;
+
+}
+
+.network {
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+
+
+}
+
+.network:hover {
+	color: white;
+
+
+
+}
+
+
+
+
+
